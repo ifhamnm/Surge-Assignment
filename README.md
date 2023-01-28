@@ -5,6 +5,13 @@ Implementation
 - Frontend : React
 - Database : MongoDB
 
+Login
+- trevin@gmail.com, trevin123
+- silva@gmail.com, silva123
+- perera@gmail.com, perera123
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![Signup Page](https://user-images.githubusercontent.com/86495608/215259014-a30561af-c2ff-47a6-aed9-926183d2d2e9.png)
 
 ![Login Page](https://user-images.githubusercontent.com/86495608/215259031-b0c3824a-87dd-46d9-8e65-b1e026841507.png)
