@@ -6,9 +6,9 @@ Implementation
 - Database : MongoDB
 
 Login
-- trevin@gmail.com, trevin123
-- silva@gmail.com, silva123
-- perera@gmail.com, perera123
+> trevin@gmail.com, trevin123
+> silva@gmail.com, silva123
+> perera@gmail.com, perera123
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
